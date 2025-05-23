@@ -43,7 +43,7 @@ Diseñar y desarrollar un dashboard profesional en Power BI que permita visualiz
 - - ## ✅ Cómo visualizar el proyecto
 
 1. Descargá o cloná el repositorio.
-2. Abrí el archivo `electromas.pbix` con Power BI Desktop.
+2. Abrí el archivo `analisis-de-ventas-retail.pbix` con Power BI Desktop.
 3. Explorá los gráficos y filtros para interactuar con los datos.
 
 > Este proyecto fue realizado con fines educativos, aplicando conceptos de visualización de datos, diseño de dashboards y análisis de negocio en Power BI.
