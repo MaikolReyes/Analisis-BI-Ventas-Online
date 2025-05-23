@@ -40,7 +40,7 @@ Diseñar y desarrollar un dashboard profesional en Power BI que permita visualiz
 ### 🏡 6. ¿Qué tendencia muestra la facturación de los productos de "Hogar y jardín"?
 - Tendencia **decreciente** a lo largo del período analizado
 
-- - ## ✅ Cómo visualizar el proyecto
+## ✅ Cómo visualizar el proyecto
 
 1. Descargá o cloná el repositorio.
 2. Abrí el archivo `analisis-de-ventas-retail.pbix` con Power BI Desktop.
